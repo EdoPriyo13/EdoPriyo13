@@ -2,11 +2,11 @@
 
 ### Hello all!
 
-my name is **Edo Priyo Utomo Putro Mujiono** .\
+my name is **Edo Priyo Utomo Putro Mujiono**.
 
-I am an undergraduate student from the Ten November Institute of Technology, Surabaya. I'm from math department .\
+I am an undergraduate student from the Ten November Institute of Technology, Surabaya. I'm from math department.
 
-in 2023 I will follow up, hopefully I can study well, gain new knowledge and I can practice it after graduation .\
+in 2023 I join Bangkit Academy, hopefully I can study well, gain new knowledge and I can practice it after graduation.
 
 <!--
 **EdoPriyo13/EdoPriyo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
